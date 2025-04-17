@@ -1,7 +1,6 @@
 Projeto e Práticas Academicas
 
 Todos os notebooks dentro desse repositorio são trabalhados no mesmo dataset ( CarPrice_Assignment ) 
-que vai estar em uma pasta única. 
 
 Principais conteúdos aplicados dentro dos notebooks :
 Analises exploratórias ; Regressão Linear Simples ; Elasticidade de Preço ; Modelos Bagging e Boosting ; Tuning de Modelos ; Ensemble Methods
